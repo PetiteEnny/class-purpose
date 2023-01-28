@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "my first demo" 
+echo "my first demo demo" 
