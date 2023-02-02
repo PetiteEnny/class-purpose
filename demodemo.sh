@@ -1,5 +1,5 @@
 #!/bin/bash
 
-my name is eniola
+echo "my name is eniola"
 
-no proble,X
+echo "no problem"
